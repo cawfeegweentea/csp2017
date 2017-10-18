@@ -1,0 +1,52 @@
+h1{
+  font-family: 'Arvo', serif;
+  text-align: center;
+
+}
+
+#one{
+  border: 100px solid #EEE0CB;
+  margin-left: 350px;
+
+  width:1px;
+  height: 30px;
+  background-color: #EEE0CB
+
+}
+
+#two{
+  border: 100px solid #C98686;
+  margin-left: 600px;
+  margin-top: -250px;
+  width: 1px;
+  height:30px;
+  background-color: #C98686
+}
+
+#three{
+  border: 100px solid #F2B880;
+  margin-left: 850px;
+  width: 1px;
+  background-color: #F2B880;
+  height: 30px;
+  margin-top: -250px
+}
+
+#four{
+  border: 100px solid #B7C8B5;
+  background-color: #B7C8B5;
+  margin-left: 1100px;
+  width: 1px;
+  height: 30px;
+  margin-top: -250px
+}
+
+#five{
+  border: 100px solid #A69888;
+  background-color: #A69888;
+  margin-left: 1350px;
+  margin-top: -250px;
+  width: 1px;
+  height: 30px
+
+}
