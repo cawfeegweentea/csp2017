@@ -1,0 +1,31 @@
+div{
+  text-align: center;
+  border: solid;
+  background-color: rgb(194, 177, 216);
+  font-family: monospace;
+ 
+
+}
+body{
+  background-color: rgb(121, 164, 196)
+}
+
+img{
+  border:solid 5px;
+
+
+}
+
+h1{
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+
+}
+
+.link{
+  background-color: rgb(121, 164, 196)
+  border: solid 3px;
+}
